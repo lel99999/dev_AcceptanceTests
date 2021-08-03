@@ -1,6 +1,19 @@
 # dev_AcceptanceTests
 Development of Acceptance Tests w/Python
 
+#### BDD Life-Cycle
+
+![https://github.com/lel99999/dev_AcceptanceTests/blob/main/bdd-cycle.jpg](https://github.com/lel99999/dev_AcceptanceTests/blob/main/bdd-cycle.jpg)
+
+The process can be defined as:
+- Write a failing acceptance test
+- Write a failing unit test
+- Make the unit test pass
+- Refactor
+- Make the acceptance test pass
+
+Rinse and repeat for every feature, as is necessary. <br/>
+
 #### Gherkin
 Keywords: <br/>
 - Feature
