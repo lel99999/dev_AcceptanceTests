@@ -14,15 +14,17 @@ The process can be defined as:
 
 Rinse and repeat for every feature, as is necessary. <br/>
 
-#### Gherkin
-Keywords: <br/>
-- Feature
-- Scenario
-- Given, When, Then, And, But (Steps)
-- Background
-- Scenario Outline
-- Examples
+#### Gherkin Syntex
+Acceptance tests usually make use of the Gherkin Syntax, introduced by the Cucumber Framework, written for Ruby. The syntax is quite easy to understand, and, in the Lettuce Python package, makes use of the following eight keywords to define your features and tests: <br/>
 
+- Given
+- When
+- Then
+- And
+- Feature:
+- Background:
+- Scenario:
+- Scenario Outline:
 
 ```
 Here is a sample Gherkin document:
